@@ -8,7 +8,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'anasoid', // Usually your GitHub org/user name.
-  projectName: 'anasoid', // Usually your repo name.
+  projectName: 'anasoid.org', // Usually your repo name.
 
   themeConfig: {
     gtag: {
